@@ -1,0 +1,46 @@
+
+
+.heading{
+    color: brown;
+}
+
+.table{
+    color: #a74b4bfd;
+    border-collapse: collapse;
+    font-size: 20px;
+}
+
+.table input, .table select{
+    color: #a74b4bfd;
+    border: none;
+    border-bottom: 1px solid #a74b4bfd;
+    background-color: #ac555523;
+    font-size: 20px;
+    padding: 5px 10px;
+}
+
+.table input:focus, .table select:focus, .table button:focus{
+    outline: none;
+}
+
+.table td{
+    padding: 10px 20px 10px 10px;
+    
+}
+
+.table button{
+    text-align: center;
+    width: 100%;
+    padding: 10px;
+    font-size: large;
+    font-weight: 600;
+    color: #d6c1c1fd;
+    background-color: #a74b4bfd;
+    border: none;
+    cursor: pointer;
+}
+
+.table button:hover{
+    color: white;
+    background-color: #8a3636fd;
+}

@@ -1,0 +1,98 @@
+.sidebar{
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    padding-top: 80px;
+    display: flex;
+}
+
+.list{    
+    background-color: #b67b7172;
+}
+
+.list ul{
+    list-style: none;
+    text-align: right;
+    margin: 0;
+    padding: 0;
+    margin-top: 30px;
+    /* background-color: magenta; */
+}
+
+.list li{
+    /* background-color: magenta; */
+    padding: 20px 10px 20px 50px;
+    color: #b67b71;
+    font-size: 18px;
+    border-right: 4px solid transparent;
+}
+
+.list li:hover{
+    border-right-color: maroon;
+    background-color: #80000064;
+    color: #ffffffc4;
+    cursor: pointer;
+}
+
+.searchContact{
+    width: 350px;
+    background-color: #ce8d8d2c;
+    overflow-y: auto;
+}
+
+.searchBar{
+    border: none;
+    margin: 10px 20px;
+    width: 250px;
+    text-align: center;
+    height: 50px;
+    font-size: 20px;
+    border-radius: 5px;
+}
+
+.searchBar:focus{
+    outline: none
+}
+
+.searchBar::-webkit-input-placeholder { /* Edge */
+    font-size: 20px;
+    color: #8080806b;
+}
+  
+.searchBar::-ms-input-placeholder { /* Internet Explorer 10-11 */
+    font-size: 20px;
+    color: #8080806b;
+}
+  
+.searchBar::placeholder {
+    font-size: 20px;
+    color: #8080806b;
+}
+
+.contact > p{
+    margin: 5px;
+}
+
+.contact > p:first-child{
+    font-weight: 500;
+    font-size: 18px;
+}
+
+.contact, .selectContact{    
+    margin: 10px;
+    padding: 10px;
+    background-color: #b67b713f;
+    color: #744646d4;
+    letter-spacing: 1px;
+    font-size: 15px;
+    cursor: pointer;
+}
+
+.contact:hover, .selectContact{
+    background-color: #b67b71e9;
+    color: #ffffff;
+}
+
+.selectContact{
+    font-size: 18px;
+}

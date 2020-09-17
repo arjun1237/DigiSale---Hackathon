@@ -1,0 +1,85 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Dell P Series",
+            "img": "https://m.media-amazon.com/images/I/91ddm+P-VCL._AC_UY218_.jpg",
+            "price": 12935,
+            "description": "24 inch Screen Full HD (1080p) 1920 x 1080 resolution, IPS Panel"
+        },
+        
+        {
+            "id": 2,
+            "name": "Apple iPhone 11",
+            "img": "https://m.media-amazon.com/images/I/51o5RmQtroL._AC_UY218_.jpg",
+            "price": 63999,
+            "description": "6.1-inch (15.5 cm) Liquid Retina HD LCD display"
+        },
+        
+        {
+            "id": 3,
+            "name": "Apple Watch Series 5",
+            "img": "https://m.media-amazon.com/images/I/71fp5ankbqL._AC_UY218_.jpg",
+            "price": 49999,
+            "description": "comes with Electrical and optical heart sensors"
+        },
+        
+        {
+            "id": 4,
+            "name": "D-Link Wireless-N300 Router",
+            "img": "https://m.media-amazon.com/images/I/51B-8XSoCOL._AC_UY218_.jpg",
+            "price": 1093,
+            "description": "Maximum Coverage : Repeater Mode to extend the reach of your existing wireless network"
+        },
+        
+        {
+            "id": 5,
+            "name": "Dell P Series",
+            "img": "https://m.media-amazon.com/images/I/91ddm+P-VCL._AC_UY218_.jpg",
+            "price": 12935,
+            "description": "24 inch Screen Full HD (1080p) 1920 x 1080 resolution, IPS Panel"
+        },
+        
+        {
+            "id": 6,
+            "name": "Dell P Series",
+            "img": "https://m.media-amazon.com/images/I/91ddm+P-VCL._AC_UY218_.jpg",
+            "price": 12935,
+            "description": "24 inch Screen Full HD (1080p) 1920 x 1080 resolution, IPS Panel"
+        },
+        
+        {
+            "id": 7,
+            "name": "Dell P Series",
+            "img": "https://m.media-amazon.com/images/I/91ddm+P-VCL._AC_UY218_.jpg",
+            "price": 12935,
+            "description": "24 inch Screen Full HD (1080p) 1920 x 1080 resolution, IPS Panel"
+        },
+        
+        {
+            "id": 8,
+            "name": "Dell P Series",
+            "img": "https://m.media-amazon.com/images/I/91ddm+P-VCL._AC_UY218_.jpg",
+            "price": 12935,
+            "description": "24 inch Screen Full HD (1080p) 1920 x 1080 resolution, IPS Panel"
+        },
+        
+        
+        {
+            "id": 9,
+            "name": "Dell P Series",
+            "img": "https://m.media-amazon.com/images/I/91ddm+P-VCL._AC_UY218_.jpg",
+            "price": 12935,
+            "description": "24 inch Screen Full HD (1080p) 1920 x 1080 resolution, IPS Panel"
+        },
+        
+        
+        {
+            "id": 10,
+            "name": "Dell P Series",
+            "img": "https://m.media-amazon.com/images/I/91ddm+P-VCL._AC_UY218_.jpg",
+            "price": 12935,
+            "description": "24 inch Screen Full HD (1080p) 1920 x 1080 resolution, IPS Panel"
+        }
+    ]
+}

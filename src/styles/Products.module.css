@@ -1,0 +1,56 @@
+.product{
+    position: relative;
+    width: 200px;
+    padding: 20px;
+    background-color: #80000015;
+    border-radius: 10px;
+    border-bottom: 2px solid maroon;
+    border-top: 5px solid maroon;
+    height: 280px;
+    cursor: pointer;
+}
+
+.product img{
+    width: 170px;
+    max-height: 200px;
+}
+
+.productContainer{
+    text-align: center;
+    display: grid;
+    gap: 40px;
+    grid: auto / repeat(3, auto);
+    padding: 10px;
+    margin: 40px 0;
+}
+
+.book{
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    background-color: #64090970;
+    display: grid;
+    place-items: center;
+}
+
+.book button{
+    font-size: 18px;
+    padding: 10px 20px;
+    cursor: pointer;
+    background-color: #641515;   
+    color: #f0e6e6fd;
+    border: none; 
+    border: 2px solid white;
+}
+
+.book button:focus{
+    outline: none;
+    font-weight: 600;
+}
+
+.book h2{
+    color: white;
+    letter-spacing: 3px;
+}
