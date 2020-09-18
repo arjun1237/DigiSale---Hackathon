@@ -14,7 +14,7 @@ export default class SidebarList extends React.Component{
         return(        
             <div className={styles.list}>
                 <ul>
-                    <li onClick={() => changeDisplay(display.contactCreate)}>Create Contact</li>
+                    {/* <li onClick={() => changeDisplay(display.contactCreate)}>Create Contact</li> */}
                     <li onClick={() => changeDisplay(display.products)}>View Products</li>
                     <li onClick={() => changeDisplay(display.bill)}>Go To Billing</li>
                 </ul>

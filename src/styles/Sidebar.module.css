@@ -96,3 +96,25 @@
 .selectContact{
     font-size: 18px;
 }
+
+.contactbutton{
+    border: none;
+    border: 1px solid #552219;
+    background-color: #6b2a1e;
+    color: #ceb0aa;
+    padding: 10px 20px;
+    margin: 5px;
+    border-radius: 5px;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.contactbutton:hover{
+    background-color: #43150d;
+    color: #ceb0aa;
+}
+
+.contactbutton:focus{
+    color: #ebdedb;
+    outline: none;
+}

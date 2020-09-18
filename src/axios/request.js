@@ -72,7 +72,7 @@ async function postBill(id, mob, f_name, l_name, email, total, payable, items){
 			"gst": 18,
 			"items": items,
 			"date_purchased": Date.now(),
-			"document_sent": false
+			"document_sent": false,
 		}
 	})
     .then(function (response) {

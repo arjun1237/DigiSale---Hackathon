@@ -12,9 +12,9 @@ export default class CreateContact extends React.Component{
             title: "Mr",
             name: "",
             mob: "",
-            email: ""
+            email: "",
+            contactCreated: true
         }
-        
     }
 
     handleInputs = (e) => {
